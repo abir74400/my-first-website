@@ -30,7 +30,9 @@ h1{
     margin:1% ;
     padding:3px;
     width: 65%;
-    
+   h3{
+     background-color: green;
+   } 
   }
   h1{
     text-align: center;
